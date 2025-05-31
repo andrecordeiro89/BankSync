@@ -1,0 +1,8 @@
+{
+  "name": "BankSync",
+  "description": "BankSync: Aplicação inteligente para conciliação bancária do grupo HealthAdmin, utilizando IA para extração e sugestão de correspondências.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
